@@ -1,0 +1,14 @@
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\bin\Debug\net8.0\idade.exe
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\bin\Debug\net8.0\idade.deps.json
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\bin\Debug\net8.0\idade.runtimeconfig.json
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\bin\Debug\net8.0\idade.dll
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\bin\Debug\net8.0\idade.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\obj\Debug\net8.0\idade.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\obj\Debug\net8.0\idade.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\obj\Debug\net8.0\idade.AssemblyInfo.cs
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\obj\Debug\net8.0\idade.csproj.CoreCompileInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\obj\Debug\net8.0\idade.dll
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\obj\Debug\net8.0\refint\idade.dll
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\obj\Debug\net8.0\idade.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\obj\Debug\net8.0\idade.genruntimeconfig.cache
+D:\CURSO C# UDEMY\EntradaDeDados\idade\idade\obj\Debug\net8.0\ref\idade.dll
